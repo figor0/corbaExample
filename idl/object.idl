@@ -1,0 +1,3 @@
+interface MyInterface {
+   long Summa (in long op1, in long op2);
+};
